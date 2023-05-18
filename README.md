@@ -44,7 +44,7 @@ python -u adex_model_script.py --sim_time 1200 --N 2000 --a 13 --b 24 --instance
 * b : adaptation parameter ()
 * instance : alias of the simulation in case we want to replicate multiple simulations with the same parameter set. 
 
-- make sure to set 'root_dir' variable in the script correctly before running simulations.
+- **make sure to set 'root_dir' variable in the script correctly before running simulations.**
 
 
 For simulations with noise 
@@ -57,4 +57,4 @@ python -u adex_model_script_noise.py --sim_time --1200 --N 2000  --a 13 --b 24 -
 
 
 ## Inferring connectivity 
-Please check the notebook file. ("coninf.ipynb")
+Please check the notebook file ("coninf/coninf.ipynb") and the readme file inside the 'matlab' folder. 
