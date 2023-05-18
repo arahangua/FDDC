@@ -57,4 +57,4 @@ python -u adex_model_script_noise.py --sim_time --1200 --N 2000  --a 13 --b 24 -
 
 
 ## Inferring connectivity 
-Please check the notebook file ("coninf/coninf.ipynb") and the readme file inside the 'matlab' folder. 
+Please check the notebook file ("coninf/coninf.ipynb") and the readme file inside the 'coninf/matlab' folder. 
