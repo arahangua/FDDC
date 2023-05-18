@@ -38,11 +38,11 @@ example command:
 ```
 python -u adex_model_script.py --sim_time 1200 --N 2000 --a 13 --b 24 --instance 0  
 ```
-* sim_time : simulation length in seconds
+* sim_time : simulation length in seconds (s)
 * N : number of neurons to be simulated (at the moment, excitatory - inhibitory ratio is fixed. 80% vs 20%)
-* a : adaptation parameter ()
-* b : adaptation parameter ()
-* instance : alias of the simulation in case we want to replicate multiple simulations with the same parameter set. 
+* a : adaptation parameter (nS)
+* b : adaptation parameter (pA)
+* instance : integer alias of the simulation in case we want to replicate multiple simulations with the same parameter set. 
 
 - **make sure to set 'root_dir' variable in the script correctly before running simulations.**
 
