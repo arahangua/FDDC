@@ -1,0 +1,13 @@
+elephant==0.9.0
+glob2==0.7
+neo==0.9.0
+numpy==1.20.2
+pandas==1.3.5
+scikit-learn==0.24.1
+scipy==1.6.1
+seaborn==0.11.1
+quantities==0.12.4
+matplotlib==3.4.1
+Brian2==2.5.1
+fracdiff==0.6.0
+gglasso==0.1.9
