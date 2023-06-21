@@ -1,5 +1,6 @@
 # Fractional dynamic differential covariance (FDDC)
 Repo for the paper "Scalable covariance based connectivity inference for synchronous neuronal networks".
+
 Biorxiv preprint: [https://www.biorxiv.org/content/10.1101/2023.06.17.545399v1](https://www.biorxiv.org/content/10.1101/2023.06.17.545399v1)
 
 # Requirements 
